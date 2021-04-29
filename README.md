@@ -6,7 +6,7 @@
 <br>
 ![目录图片](https://github.com/gtwilson8921/gtwilsona/blob/main/ass.jpg)
 <br>
-![插画](https://www.sanguosha.com/static/pc/dist/img/general3.png)
+![插画](https://t12.baidu.com/it/u=3667341215,4276726464&fm=173&app=25&f=JPEG?w=530&h=750&s=BEB167830A22B6D614FC75370300D042)
 <br>
 `print "示例代码" ` 
 >这是一行引用
