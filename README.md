@@ -2,7 +2,7 @@
 #### Markdown
 [baidu](https://www.baidu.com)
 <br>
-[gotoabc](https://github.com/gtwilson8921/gtwilsona/blob/main/hhh.md)
+[gotoabc](https://github.com/hdl2118/hdla/blob/main/abc)
 <br>
 ![目录图片](https://github.com/gtwilson8921/gtwilsona/blob/main/ass.jpg)
 <br>
